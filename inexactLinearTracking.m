@@ -1,5 +1,5 @@
 
-% Produces the figure from B. Hahn-Rigaud, B. Wirth: Convex reconstruction of moving particles with inexact motion model.
+% Produces the figure from B. Hahn, B. Wirth: Convex reconstruction of moving particles with inexact motion model.
 %
 % Solves $\min_{(u_t)_t\geq0,(\gamma_\theta)_\theta\geq0}\sum_t\|u_t\|+\sum_\theta\|\gamma_\theta\|$
 % s.t. $|(Ob u_t-f_t)_\xi| \leq \rho h/2 \pi |\xi|_1 u_t(\Omega)$ for all $t$ and $W_1(Rd_\theta u_t,Mv_t \gamma_\theta)\leq\epsilon\|u_t\|t^2$,
